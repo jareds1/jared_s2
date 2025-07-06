@@ -1,2 +1,2 @@
 # jared_s2
-i want to learn to code for use in tas purposes.  specifically mkwii.
+I am using GitHub for display of work from University of Arizona Global Campus assignments.
